@@ -1,6 +1,6 @@
 # 🏦 BankSecure
 
-BankSecure is a secure banking backend built with Node.js, Docker, and Jenkins. It demonstrates CI/CD automation, containerized deployment, and real-time validation of service health — ideal for showcasing DevOps proficiency in cloud-native environments.
+BankSecure is a secure banking backend built with Node.js, Docker, and Jenkins. It demonstrates CI/CD automation, containerized deployment, and real-time validation of service health.
 
 ## 🚀 Tech Stack
 
