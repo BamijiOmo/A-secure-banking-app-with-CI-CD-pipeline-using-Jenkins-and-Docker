@@ -28,12 +28,3 @@ graph TD
   C --> D[Run App & Validate]
   D --> E[Docker Build]
   E --> F[Deploy to EC2]
-
-```
-BankSecure/
-├── src/
-│   └── server.js
-├── Dockerfile
-├── Jenkinsfile
-├── package.json
-└── README.md
