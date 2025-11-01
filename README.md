@@ -29,9 +29,10 @@ graph TD
   D --> E[Docker Build]
   E --> F[Deploy to EC2]
 
-```
 
 📂 Project Structure
+
+```mermaid
 BankSecure/
 ├── src/
 │   └── server.js
