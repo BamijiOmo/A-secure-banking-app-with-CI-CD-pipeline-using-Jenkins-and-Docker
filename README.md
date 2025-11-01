@@ -57,3 +57,5 @@ BankSecure/
 **Command:**
 ```bash
 curl http://localhost:3000
+🏦 BankSecure backend is live — CI/CD pipeline initialized.
+
