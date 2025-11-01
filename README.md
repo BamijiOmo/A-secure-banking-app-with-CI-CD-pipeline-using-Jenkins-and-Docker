@@ -21,7 +21,7 @@ BankSecure is a secure banking backend built with Node.js, Docker, and Jenkins. 
 
 ## 🔧 CI/CD Pipeline Overview
 
-```mermaid```
+```mermaid
 graph TD
   A[GitHub Push] --> B[Jenkins Trigger]
   B --> C[Install Dependencies]
@@ -29,17 +29,14 @@ graph TD
   D --> E[Docker Build]
   E --> F[Deploy to EC2]
 
+#### 📂 Project Structure
+
+```markdown
 ## 📂 Project Structure
 
-BankSecure/
-├── src/
-│   └── server.js
-├── Dockerfile
-├── Jenkinsfile
-├── package.json
-└── README.md
+## 🧪 Sample Output
 
-🧪 Sample Output
-
+```bash
 curl http://localhost:3000
 🏦 BankSecure backend is live — CI/CD pipeline initialized.
+
