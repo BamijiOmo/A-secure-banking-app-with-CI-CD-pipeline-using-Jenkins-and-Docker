@@ -29,14 +29,17 @@ graph TD
   D --> E[Docker Build]
   E --> F[Deploy to EC2]
 
-#### 📂 Project Structure
-
-```markdown
-## 📂 Project Structure
-
-## 🧪 Sample Output
-
-```bash
+📂 Project Structure
+    BankSecure/
+    ├── src/
+    │   └── server.js
+    ├── Dockerfile
+    ├── Jenkinsfile
+    ├── package.json
+    └── README.md
+    
+🧪 Sample Output
 curl http://localhost:3000
 🏦 BankSecure backend is live — CI/CD pipeline initialized.
+
 
